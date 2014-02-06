@@ -12,8 +12,6 @@ public class ProblemOne {
 	public static void main(String[] args){
 		ProblemOne prob1 = new ProblemOne(); 
 		prob1.run();
-		ProblemTwo prob2 = new ProblemTwo();
-		System.out.println(prob2.fibonacci(999));
 	}
 	
 	public void run(){
